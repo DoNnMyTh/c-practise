@@ -1,0 +1,2 @@
+E:\C++\clases1\Debug\clases1.exe
+E:\C++\clases1\Debug\clases1.pdb

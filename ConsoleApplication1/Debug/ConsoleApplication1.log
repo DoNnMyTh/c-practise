@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+E:\C++\ConsoleApplication1\ConsoleApplication1.cpp(19,22): error C2661: 'add': no overloaded function takes 1 arguments
+E:\C++\ConsoleApplication1\ConsoleApplication1.cpp(20,11): error C3536: 'a': cannot be used before it is initialized
+  function.cpp
+  Generating Code...
