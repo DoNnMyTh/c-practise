@@ -1,0 +1,2 @@
+E:\C++\ConsoleApplication7\Debug\ConsoleApplication7.exe
+E:\C++\ConsoleApplication7\Debug\ConsoleApplication7.pdb
