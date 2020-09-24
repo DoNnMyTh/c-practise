@@ -1,0 +1,12 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.0.109'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+E:\C++\ConsoleApplication8\main.cpp(5,11): warning : variable ‘j’ set but not used [-Wunused-but-set-variable]
+E:\C++\ConsoleApplication8\main.cpp(5,11): warning :     5 |  long int j = 0;
+E:\C++\ConsoleApplication8\main.cpp(5,11): warning :       |           ^
+  Linking objects
+  ConsoleApplication8.vcxproj -> E:\C++\ConsoleApplication8\bin\ARM64\Debug\ConsoleApplication8.out
